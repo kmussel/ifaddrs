@@ -1,0 +1,4 @@
+module CIfaddrs {
+  header "/usr/include/ifaddrs.h"
+  export *
+}

@@ -1,0 +1,4 @@
+module CIfaddrs [system] {
+  header "/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVSimulator.platform/Developer/SDKs/AppleTVSimulator10.0.sdk/usr/include/ifaddrs.h"
+  export *
+}

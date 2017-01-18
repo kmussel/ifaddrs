@@ -1,0 +1,4 @@
+module CIfaddrs [system] {
+  header "/Applications/Xcode.app/Contents/Developer/Platforms/WatchSimulator.platform/Developer/SDKs/WatchSimulator3.1.sdk/usr/include/ifaddrs.h"  
+  export *
+}

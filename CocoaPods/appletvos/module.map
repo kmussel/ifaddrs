@@ -1,0 +1,4 @@
+module CIfaddrs [system] {
+  header "/Applications/Xcode-beta.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS10.0.sdk/usr/include/ifaddrs.h"
+  export *
+}
