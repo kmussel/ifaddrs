@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name            = 'Ifaddrs'
   s.version         = '0.0.1'
   s.summary         = 'Swift module map for ifaddrs.'
-  s.description     = 'Module maps for importing CommonCrypto C libs to Swift.'
+  s.description     = 'Module maps for importing Ifaddrs C libs to Swift.'
   s.homepage        = 'https://github.com/kmussel/ifaddrs'
   s.license         = { :type => 'Public'}
   s.author          = 'Kevin Musselman'
