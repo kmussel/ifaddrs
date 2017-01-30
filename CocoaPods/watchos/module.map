@@ -1,4 +1,4 @@
 module CIfaddrs [system] {
-  header "/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/SDKs/WatchOS3.1.sdk/usr/include/ifaddrs.h"
+  header "/Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/Developer/SDKs/WatchOS.sdk/usr/include/ifaddrs.h"
   export *
 }
