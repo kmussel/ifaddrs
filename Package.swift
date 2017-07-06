@@ -1,11 +1,11 @@
 import PackageDescription
 
 let package = Package(
-    name: "Ifaddrs",
+    name: "ifaddrs",
     targets: [
-        Target(name: "Ifaddrs"),
+        Target(name: "ifaddrs"),
     ],
     dependencies: [
     	.Package(url: "https://github.com/kmussel/cifaddrs.git", "0.0.1"),
-    ]    
+    ]
 )

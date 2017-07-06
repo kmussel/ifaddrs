@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name            = 'Ifaddrs'
+  s.name            = 'ifaddrs'
   s.version         = '0.0.1'
   s.summary         = 'Swift module map for ifaddrs.'
   s.description     = 'Module maps for importing Ifaddrs C libs to Swift.'
